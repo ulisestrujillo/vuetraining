@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductList.vue Matches snapshot 1`] = `
+<div>
+  <div> My title</div>
+  <ul>
+    <li></li>
+    <li></li>
+  </ul>
+</div>
+`;
